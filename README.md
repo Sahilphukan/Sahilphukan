@@ -1,22 +1,21 @@
 ## Hello, I'm Sahil Phukan 👋
 ## About Me
-  -A passionate learner with a strong foundation in HTML, CSS, and Python.
-  -Skilled in using MS Word, Excel, and creating visually appealing PowerPoint presentations.
-  -Experienced in photo editing and poster design, creating captivating visuals.
-  -Completed NCC training, which has honed my time management and communication skills in English,Hindi, and Assamese.
-  -Known for my sense of humor and ability to bring a smile to any situation!
-  -Quick learner in any field.
-  -Likes to explore and try new things.
-  -Loves to play sports(i.e football,volleyball,batminton,kabbadi,kho-kho etc).
+  -A passionate learner with a strong foundation in HTML, CSS, and Python,Skilled in using MS Word, Excel, and creating visually appealing PowerPoint presentations,
+  Experienced in photo editing and poster design, creating captivating visuals,
+  Completed NCC training, which has honed my time management and communication skills in English,Hindi, and Assamese,
+  Known for my sense of humor and ability to bring a smile to any situation!,
+  Quick learner in any field,
+  Likes to explore and try new things,
+  Loves to play sports(i.e football,volleyball,batminton,kabbadi,kho-kho etc).
 ## Skills
-  -HTML
-  -CSS
-  -Python
-  -MS Excel
-  -MS Word
-  -PowerPoint Design
-  -Photo Editing
-  -Poster Design
+  HTML,
+  CSS,
+  Python,
+  MS Excel,
+  MS Word,
+  PowerPoint Design,
+  Photo Editing,
+  Poster Design.
 ## Reach me...
   Email: sahilphukan5@gmail.com
 
